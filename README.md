@@ -1,0 +1,1 @@
+This is the arduino code to detect the temperature and humidity of the plant. It also connect to the blynk to read the data in teh cloud. The are no different in MHHDetectorWhite and MHHDetectorBlue. There have 2 code because this project required two set of IoT.
